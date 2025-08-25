@@ -10,7 +10,7 @@
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">
-        Read the latest development updates of OpenxAI Engineering.
+        Read the latest development updates from OpenxAI Engineering.
       </p>
     </div>
   </header>
