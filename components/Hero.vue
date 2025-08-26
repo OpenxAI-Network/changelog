@@ -1,16 +1,17 @@
 <template>
-  <header class="py-12 px-4 sm:px-6 lg:px-8">
+  <header class="pt-12 pb-0 px-4 sm:px-6 lg:px-8">
     <div class="relative mx-auto max-w-[37.5rem] pt-20 text-center pb-20">
       <div class="flex items-center justify-center space-x-3">
         <img loading="lazy" src="/logo.png" alt="Logspot" class="h-20 w-20" />
         <h1
           class="text-4xl font-extrabold tracking-tight text-slate-700 sm:text-5xl"
         >
-          OpenxAI Changelog
+          OpenxAI Product Updates & Roadmap
         </h1>
       </div>
       <p class="mt-4 text-base leading-7 text-slate-600">
-        Read the latest development updates from OpenxAI Engineering.
+        Follow our journey as we build the future of permissionless AI, from the
+        updates we've just shipped to the breakthroughs still on the horizon.
       </p>
     </div>
   </header>

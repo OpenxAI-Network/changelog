@@ -8,12 +8,12 @@
       <div class="w-full flex bg-gray-200 h-10 rounded">
         <a
           href="/"
-          class="grow flex place-items-center place-content-center text-base rounded-l hover:bg-black/5 sm:text-lg border-b-2 border-black"
+          class="grow flex place-items-center place-content-center text-base rounded-l hover:bg-black/5 sm:text-lg"
           ><span>General</span></a
         >
         <a
           href="/engineering"
-          class="grow flex place-items-center place-content-center text-base rounded-r hover:bg-black/5 sm:text-lg"
+          class="grow flex place-items-center place-content-center text-base rounded-r hover:bg-black/5 sm:text-lg border-b-2 border-black"
           ><span>Engineering</span></a
         >
       </div>
@@ -46,6 +46,6 @@ useHead({
   ],
 });
 const { data } = await useAsyncData("feed", () =>
-  queryContent("/general").sort({ order: -1 }).find()
+  queryContent("/engineering").sort({ order: -1 }).find()
 );
 </script>
