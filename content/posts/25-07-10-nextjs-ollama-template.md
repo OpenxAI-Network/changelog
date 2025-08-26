@@ -2,6 +2,7 @@
 title: NextJS Ollama Template
 date: July 10, 2025
 order: 25-07-10
+type: engineering
 ---
 
 - NextJS + Ollama template released for XnodeOS

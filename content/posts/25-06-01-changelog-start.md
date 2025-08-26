@@ -2,6 +2,7 @@
 title: OpenxAI Changelog Start
 date: June 01, 2025
 order: 25-06-01
+type: engineering
 ---
 
 - Older changes are not being tracked on this changelog

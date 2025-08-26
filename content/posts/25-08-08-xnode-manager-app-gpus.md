@@ -2,6 +2,7 @@
 title: Xnode Manager App GPUs
 date: August 08, 2025
 order: 25-08-08
+type: engineering
 ---
 
 - [Xnode Manager](https://github.com/Openmesh-Network/xnode-manager) now allows per container access control to NVIDIA GPUs

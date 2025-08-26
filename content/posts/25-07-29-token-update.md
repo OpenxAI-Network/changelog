@@ -2,6 +2,7 @@
 title: OPENX Token Update
 date: July 29, 2025
 order: 25-07-29
+type: engineering
 ---
 
 The following contracts have been updated:

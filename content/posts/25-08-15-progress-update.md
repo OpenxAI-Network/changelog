@@ -2,6 +2,7 @@
 title: OpenxAI Progress Update
 date: August 15, 2025
 order: 25-08-15
+type: general
 ---
 
 - [Progress Update](https://medium.com/openxai/openxai-progress-update-august-15-2025-4ec472f0f31c)

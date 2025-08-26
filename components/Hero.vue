@@ -1,6 +1,6 @@
 <template>
   <header class="pt-12 pb-0 px-4 sm:px-6 lg:px-8">
-    <div class="relative mx-auto max-w-[37.5rem] pt-20 text-center pb-20">
+    <div class="relative mx-auto max-w-[37.5rem] pt-20 text-center pb-10">
       <div class="flex items-center justify-center space-x-3">
         <img loading="lazy" src="/logo.png" alt="Logspot" class="h-20 w-20" />
         <h1

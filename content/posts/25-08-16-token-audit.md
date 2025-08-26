@@ -2,6 +2,7 @@
 title: OPENX Token Audit
 date: August 16, 2025
 order: 25-08-16
+type: engineering
 ---
 
 Cyberscope audit completed without any issues for the following contracts:

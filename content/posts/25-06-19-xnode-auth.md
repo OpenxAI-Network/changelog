@@ -2,6 +2,7 @@
 title: Xnode Auth Release
 date: June 19, 2025
 order: 25-06-19
+type: engineering
 ---
 
 - [Xnode Auth](https://github.com/Openmesh-Network/xnode-auth) first version released

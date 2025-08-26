@@ -25,12 +25,12 @@
       <div class="w-full flex place-content-center gap-8 sm:gap-16">
         <a
           href="/"
-          class="flex px-1 place-items-center place-content-center text-sm sm:text-base text-blue-600 border-b-2 border-blue-600 stroke-blue-600 fill-blue-600"
+          class="flex px-1 place-items-center place-content-center text-sm sm:text-base"
           ><span>All</span></a
         >
         <a
           href="/general"
-          class="flex px-1 gap-2 place-items-center place-content-center text-sm sm:text-base"
+          class="flex px-1 gap-2 place-items-center place-content-center text-sm sm:text-base text-blue-600 border-b-2 border-blue-600 stroke-blue-600 fill-blue-600"
           ><svg class="h-6" viewBox="4 14 58 34">
             <circle cx="31.89" cy="22.71" r="5.57" />
             <path
@@ -131,6 +131,9 @@ useHead({
   ],
 });
 const { data } = await useAsyncData("feed", () =>
-  queryContent("/posts").sort({ order: -1 }).find()
+  queryContent("/posts")
+    .where({ type: { $eq: "general" } })
+    .sort({ order: -1 })
+    .find()
 );
 </script>

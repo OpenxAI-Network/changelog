@@ -2,6 +2,7 @@
 title: Xnode AI Chat Update
 date: August 10, 2025
 order: 25-08-10
+type: engineering
 ---
 
 - Ollama updated to the latest Nix version (0.11.4)

@@ -2,6 +2,7 @@
 title: XnodeOS Container Domains
 date: June 17, 2025
 order: 25-06-17
+type: engineering
 ---
 
 - XnodeOS will automatically issue {containerid}.container domains on the host DNS through DHCP leases

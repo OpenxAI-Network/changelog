@@ -2,6 +2,7 @@
 title: Xnode Demo Update
 date: July 14, 2025
 order: 25-07-14
+type: engineering
 ---
 
 - [Xnode Demo](https://github.com/Openmesh-Network/xnode-demo) library updated to be compatible with the latest Xnode Manager version

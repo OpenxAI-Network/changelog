@@ -2,6 +2,7 @@
 title: Xnode Manager Auth Decoupling
 date: June 23, 2025
 order: 25-06-23
+type: engineering
 ---
 
 - Removed built-in auth from [Xnode Manager](https://github.com/Openmesh-Network/xnode-manager)
