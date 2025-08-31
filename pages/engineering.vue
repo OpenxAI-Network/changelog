@@ -7,7 +7,7 @@
     >
       <div class="w-full flex bg-gray-200 h-10 rounded">
         <a
-          href="#"
+          href="/"
           class="grow flex place-items-center place-content-center text-base rounded-l sm:text-lg text-white bg-black/40 hover:bg-black/45 border-b-2 border-black"
           ><span>Released</span></a
         >
@@ -17,7 +17,7 @@
           ><span>In Progress</span></a
         >
         <a
-          href="#"
+          href="/planned"
           class="grow flex place-items-center place-content-center text-base rounded-r sm:text-lg hover:bg-black/5"
           ><span>Planned</span></a
         >
