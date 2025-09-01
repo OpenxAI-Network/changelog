@@ -12,14 +12,9 @@
           ><span>Released</span></a
         >
         <a
-          href="#"
-          class="grow flex place-items-center place-content-center text-base rounded-r sm:text-lg hover:bg-black/5"
-          ><span>In Progress</span></a
-        >
-        <a
           href="/planned"
           class="grow flex place-items-center place-content-center text-base rounded-r sm:text-lg hover:bg-black/5"
-          ><span>Planned</span></a
+          ><span>In Progress</span></a
         >
       </div>
       <div class="w-full flex place-content-center gap-8 sm:gap-16">
